@@ -1,4 +1,3 @@
-Sure, here's a suggestion for a README page for your `CalcMaster` project:
 
 # CalcMaster
 
@@ -13,7 +12,7 @@ Sure, here's a suggestion for a README page for your `CalcMaster` project:
 
 ## Code Structure
 
-The main code for the calculator logic is contained in the `MainActivity.kt` file in the `com.example.pinky` package. The `MainActivity` class extends `AppCompatActivity` and overrides the `onCreate` method to initialize the calculator buttons and set up their click listeners.
+The main code for the calculator logic is contained in the `MainActivity.kt` file in the `com.example.CalcMaster` package. The `MainActivity` class extends `AppCompatActivity` and overrides the `onCreate` method to initialize the calculator buttons and set up their click listeners.
 
 Each button appends its corresponding value to the input expression, which is then evaluated when the equals button is clicked. The result is displayed in the output TextView.
 
